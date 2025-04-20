@@ -1,5 +1,5 @@
 .footer {
     background-color: #F1F1F1;
-    text-align: center;
-    padding: 10px;
+    text-align: center; /* text-align sirve para centrar un texto, se complementa con el :center; */
+    padding: 10px;  /* crea el recuadro, se le puede modificar los px para hacerlo mas grande o mas pequeño*/
   }

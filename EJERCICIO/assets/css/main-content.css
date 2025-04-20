@@ -1,8 +1,8 @@
 .main-content {
     background-color: #F1F1F1;
-    text-align: center;  
-    padding: 20px;  
-    font-family: Arial, sans-serif;  
+    text-align: center;  /* text-align sirve para centrar un texto, se complementa con el :center; */
+    padding: 20px;  /* crea el recuadro, se le puede modificar los px para hacerlo mas grande o mas pequeño*/
+    font-family: Arial, sans-serif;  /*sirve para añadirle un font a la letra */
 }
 
 .main-content-img {
